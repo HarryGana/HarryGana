@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<script>
+var person = "Haruna Gana";
+var cars = ["C#", "HTML", "CSS", "JavaScript", "Python", "Design", "PHP"];
+var text = "";
+var i;
+for ( let i = 1; i <=7; i++) {
+  if (i % 2 ! ==0) console.log(i);
+}
+
+</script>
+
+</body>
+</html>
+
