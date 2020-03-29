@@ -5,10 +5,10 @@
 <script>
 var person = "Haruna Gana";
 var cars = ["C#", "HTML", "CSS", "JavaScript", "Python", "Design", "PHP"];
-var text = "";
+console.log(person, cars);
 var i;
-for ( let i = 1; i <=7; i++) {
-  if (i % 2 ! ==0) console.log(i);
+for ( let i = 1; i <=200; i++) {
+  if (i % 2 !==0) console.log(i);
 }
 
 </script>
