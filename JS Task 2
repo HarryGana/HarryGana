@@ -16,7 +16,7 @@
 
      let myObject3 = { Principal: 2000, time: 3}
      
-     let myArray =[ myObject1, myObject2, myObject3]
+     let myArray =[ myObject, myObject1, myObject2, myObject3]
 
      console.log(myArray)
 
