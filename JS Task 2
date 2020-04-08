@@ -8,7 +8,7 @@
 <body>
  <script>
 
-     
+     let myObject = { Principal: 2500, time : 1.8}
 
      let myObject1 = { Principal: 1000, time : 5}
 
