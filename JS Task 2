@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task2</title>
+</head>
+<body>
+ <script>
+
+     
+
+     let myObject1 = { Principal: 1000, time : 5}
+
+     let myObject2 = { Principal: 3000, time : 1}
+
+     let myObject3 = { Principal: 2000, time: 3}
+     
+     let myArray =[ myObject1, myObject2, myObject3]
+
+     console.log(myArray)
+
+
+
+</script>
+</body>
+</html>
